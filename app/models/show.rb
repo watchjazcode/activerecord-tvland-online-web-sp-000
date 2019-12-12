@@ -10,5 +10,4 @@ class Show < ActiveRecord::Base
     end
     names
   end
-
 end
